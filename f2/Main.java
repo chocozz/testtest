@@ -15,8 +15,6 @@ public class Main{
 		f.setVisible(true);		// show 	
 
 		test
-	tttttttttttttttttttttttttttttttttttttttt
-	4444444444444444444444444444444444444444444
-	1111111111111111111111111
+	rrrrrrrrrrrrhgfh
 	}
 }
