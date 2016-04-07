@@ -13,5 +13,8 @@ public class Main{
 		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		f.setSize(400, 650);
 		f.setVisible(true);		// show 	
+
+		test
+	tttttttttttttttttttttttttttttttttttttttt
 	}
 }
